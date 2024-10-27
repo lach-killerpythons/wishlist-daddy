@@ -14,7 +14,7 @@ export default function ListDelete(props) {
               throw new Error("Failed to delete item");
             }
             else {
-                console.log("deleted! "+ props.id);
+                console.log("deleted "+ props.id);
                 window.location.reload();
             }
           } catch (error) {
