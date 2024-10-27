@@ -1,0 +1,40 @@
+
+.itemgrid {
+    display: grid;
+    gap: 20px;
+    justify-items: center;
+    padding: 20px;
+}
+
+.box {
+    width: 320px;
+    border: 2px solid black;
+    padding: 10px;
+    margin: 20px auto;
+    display: grid;
+    grid-template-rows: auto auto auto; /* Creates rows for image, price, and description */
+    row-gap: 10px; /* Spacing between rows */
+
+}
+
+
+/* Image inside the box */
+.box img {
+    width: 300px;
+    height: 300px;
+    justify-self: center;
+}
+
+/* Price styling */
+.price {
+    font-size: 20px;
+    font-weight: bold;
+    margin: 10px 0;
+}
+
+/* Description styling */
+.description {
+    font-size: 16px;
+    color: #333;
+    margin-bottom: 10px;
+}
