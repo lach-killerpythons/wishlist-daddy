@@ -61,7 +61,7 @@ export default function Listbuild(props) {
     return (
         
         <>
-        <h1 style = {{color: 'white'}}>Item Tier {props.tier}</h1>
+
         <div className={styles.itemgrid} style={{ gridTemplateColumns: `repeat(3, 1fr)` }}>
         {
             mylist.map(

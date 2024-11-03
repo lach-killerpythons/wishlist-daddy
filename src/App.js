@@ -4,8 +4,9 @@ import Heading from './heading';
 import Listbuild from './listbuild';
 import Listadd from './listadd'
 import ListDelete from './listdelete';
+import MockEdit from './MockEdit';
 //<Listbuild/>
-import Flexy from './flexyboi';
+
 
 
 
@@ -14,11 +15,15 @@ function App() {
     <>
   
     <Heading myText = "Lachlan's Wishlist"/>
+
+    <MockEdit/>
+
+    <div>
     <Listadd/>
 
     <Listbuild/>
 
-    <ListDelete id="fc3c"/>
+    </div>
 
 
     </>

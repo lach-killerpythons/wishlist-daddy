@@ -12,6 +12,7 @@
     padding: 10px;
     margin: 20px auto;
     display: grid;
+    background-color: black;
     grid-template-rows: auto auto auto; /* Creates rows for image, price, and description */
     row-gap: 10px; /* Spacing between rows */
 
@@ -29,12 +30,15 @@
 .price {
     font-size: 20px;
     font-weight: bold;
+    background: 'black';
+    color: red;
     margin: 10px 0;
 }
 
 /* Description styling */
 .description {
     font-size: 16px;
-    color: #333;
+    background: 'black';
+    color: white;
     margin-bottom: 10px;
 }

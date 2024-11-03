@@ -25,12 +25,6 @@
       "id": "8081"
     },
     {
-      "id": "8a9a",
-      "image_url": "https://images.unsplash.com/photo-1556910148-3adb7f0c665a?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "description": "d",
-      "price": "12213"
-    },
-    {
       "id": "2813",
       "image_url": "https://images.unsplash.com/photo-1556910148-3adb7f0c665a?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "description": "a nice cast iron dutch oven",
@@ -46,13 +40,19 @@
       "id": "e105",
       "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSc-VKMLUeFQv4yHJFiZbC6iqYdWhsitoL4e6qNdwX_HVTOcYDubYfR84V5-u8vLzxX8uSOcxouC4ZxGSoEMcFNsg0nn6TMOdRXJsKK9oODDjGSHwzji88Cng",
       "description": "ssshorts",
-      "price": "$50000"
+      "price": "$50"
     },
     {
-      "id": "0141",
-      "image_url": "https://prod.scorptec.com.au/bundles/2270/9070_large.jpg",
-      "description": "sick NUC",
-      "price": "$990"
+      "id": "f1b6",
+      "image_url": "https://images.unsplash.com/photo-1591940765155-0604537032a5?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "description": "treadmill",
+      "price": "400"
+    },
+    {
+      "id": "167c",
+      "image_url": "https://images.unsplash.com/photo-1591019479261-1a103585c559?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "description": "here is a makeup kit that a child would use",
+      "price": "10"
     }
   ]
 }

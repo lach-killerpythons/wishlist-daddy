@@ -25,7 +25,7 @@ export default function ListDelete(props) {
     return (
         <>
         <button className="deleteButton" onClick={() => handleDelete(props.id)}>Delete ❌</button>
-        <button className="editButton">Edit 📝</button>
+        
         </>
     );
 
